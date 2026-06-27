@@ -1,17 +1,17 @@
-# 🌐 Portfolio-website
+ 🌐 Portfolio-website
 
 My personal portfolio website
 
-# 📌 About
+📌 About
 This is my personal portfolio website created using HTML, CSS, and JavaScript.  
 It showcases my skills, projects, and contact details.
 
-# 💻 Technologies Used
+ 💻 Technologies Used
 - HTML
 - CSS
 - JavaScript
 
-# ✨ Features
+ ✨ Features
 - Simple and clean design
 - Navigation menu
 - About section
@@ -19,7 +19,7 @@ It showcases my skills, projects, and contact details.
 - Projects section
 - Contact section
 
-# 👩‍💻 Author
+👩‍💻 Author
 Lavanya  
 BCA Student (2024–2026)  
 Aspiring Frontend Developer 
