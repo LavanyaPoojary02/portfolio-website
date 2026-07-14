@@ -6,7 +6,7 @@ My personal portfolio website
 This is my personal portfolio website created using HTML, CSS, and JavaScript.  
 It showcases my skills, projects, and contact details.
 
- 💻 Technologies Used
+ 💻 Technologies Used-
 - HTML
 - CSS
 - JavaScript
