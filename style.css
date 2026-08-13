@@ -24,7 +24,7 @@ nav h2 {
 
 nav ul {
   list-style-type: none;
-  padding: 0;
+  padding: 1px;
 }
 
 nav ul li {
