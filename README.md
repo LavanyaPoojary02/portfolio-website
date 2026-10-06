@@ -24,3 +24,4 @@ Lavanya
 BCA Student (2024–2026)  
 Aspiring Frontend Developer 
 Aspiring Web developer 
+Aspiring IT role 
