@@ -21,7 +21,7 @@ It showcases my skills, projects, and contact details.
 
 👩‍💻 Author
 Lavanya  
-BCA Student (2024–2026)  
+BCA Student (2023–2026)  
 Aspiring Frontend Developer 
 Aspiring Web developer 
 Aspiring IT role 
